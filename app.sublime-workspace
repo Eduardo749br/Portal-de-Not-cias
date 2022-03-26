@@ -1,0 +1,235 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ex",
+				"express"
+			],
+			[
+				"h",
+				"html\thtml"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/portaldenoticias/app/views/noticias/noticia.ejs",
+		"/C/portaldenoticias/app.js",
+		"/C/Users/Aluno/Downloads/PortalDeNoticias/app/views/noticias/noticias.ejs",
+		"/C/Users/Aluno/Downloads/PortalDeNoticias/app.js",
+		"/C/Users/Aluno/Desktop/Lógico_1.brM3",
+		"/C/Users/Aluno/Downloads/Cafeteria IFMS.rar",
+		"/C/Users/Aluno/Downloads/Cafeteria IFMS (1).rar",
+		"/D/Front-end 3/cafeteria/CSS/tabela.html",
+		"/D/Front-end 3/cafeteria/cafeteria.html",
+		"/D/Front-end 3/cafeteria/CSS/styles.css",
+		"/D/Front-end 3/cafeteria/mistura.html",
+		"/D/Front-end 3/cafeteria/café.html",
+		"/D/Front-end 3/cafeteria/cappucino.html",
+		"/D/Front-end 3/cafeteria/cha.html",
+		"/D/Front-end 3/cafeteria/cha.htl[",
+		"/C/Users/Aluno/Downloads/PortalDeNoticia/app/views/noticias/noticias.ejs",
+		"/C/Users/Aluno/Downloads/PortalDeNoticia/app.js",
+		"/C/Users/Aluno/Downloads/PortalDeNoticia/package.json",
+		"/C/PortalDeNoticia/PortalDeNoticia/app.js",
+		"/D/Conceitual_SDR.brM3",
+		"/C/PortalDeNoticia/app/views/home/index.ejs",
+		"/C/PortalDeNoticia/app.js",
+		"/C/PortalDeNoticias/app/views/home/index.ejs",
+		"/C/PortalDeNoticias/app/views/noticias/noticia.ejs",
+		"/C/PortalDeNoticias/app/views/admin/form_add_noticia.ejs",
+		"/C/PortalDeNoticias/app.js",
+		"/C/PortalDeNoticias/app/views/notícias/noticia.ejs",
+		"/C/PortalDeNoticia/app/views/noticias/noticia.ejs",
+		"/C/PortalDeNoticia/app/views/admin/form_add_noticia.ejs",
+		"/C/PortalDeNoticia/package.json",
+		"/C/PortalDeNoticia/package-lock.json",
+		"/C/Users/Aluno/3D Objects/cantinigols/desafio1.html",
+		"/C/Users/Aluno/Downloads/Projeto Café IFMS (1).rar",
+		"/C/Users/Aluno/Downloads/Projeto Café IFMS (2).rar",
+		"/C/Users/Aluno/Downloads/bd.brM3",
+		"/C/Portal de Noticias/app/views/noticias/noticia.ejs",
+		"/C/Portal de Noticias/app/views/home/index.ejs",
+		"/C/Portal de Noticias/app/views/admin/formulario_inclusao_noticias.ejs",
+		"/C/Portal de Noticias/app.js",
+		"/C/Portal de Noticias/app/views/noticia.ejs",
+		"/C/Portal de Noticias/app/views/form_add_noticia.ejs",
+		"/C/Portal de Noticias/app/views/noticias/index.ejs",
+		"/C/Portal de Noticias/app/views/index.ejs"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
